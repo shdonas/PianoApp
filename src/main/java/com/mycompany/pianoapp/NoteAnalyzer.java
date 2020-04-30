@@ -62,6 +62,9 @@ public class NoteAnalyzer {
                     this.isSharp = "Sharp";
 //                    System.out.println(index);
                     break;
+                }else if (k.equals(note)){
+                    System.out.println("Natural");
+                    break;
                 }
             }
         }
