@@ -2,6 +2,7 @@ package com.mycompany.pianoapp;
 
 import org.apache.commons.lang3.ArrayUtils;
 
+
 public class NoteAnalyzer {
 
     int noteLength;
