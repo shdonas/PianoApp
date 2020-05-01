@@ -7,10 +7,6 @@ package com.mycompany.pianoapp;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Shakhawat Hossain <shossain_psu@yahoo.com>
- */
 public class PianoMain {
     public static void main(String[] args) {
         NoteAnalyzer piano = new NoteAnalyzer();
